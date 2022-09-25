@@ -6,7 +6,8 @@ This program cleans temp and prefetch folders.
 ![Release v1 0 2](https://user-images.githubusercontent.com/91411319/192155500-499cdca1-05ab-4865-aec3-2e60e50ee356.png)
 
 # **NOTE:** If temp or prefetch folders are dont cleaned:
-- Download 'Take.Ownership.reg' file.
+- Download 'Take.Ownership.reg' file from Releases/1.0.0
+
 - Open file with double click.
 - Click 'Run'.
 
