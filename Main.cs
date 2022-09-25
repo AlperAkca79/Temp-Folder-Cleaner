@@ -361,7 +361,7 @@ namespace Temp_Folder_Cleaner
         // About - Program Version
         private void versionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Program Version: 1.0.1", "Version Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Program Version: 1.0.2", "Version Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         // About - .NET Version
@@ -389,7 +389,7 @@ namespace Temp_Folder_Cleaner
             DialogResult option = MessageBox.Show("The Web Site Will Open in the Web Browser. Do you want to open it?", "Information", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
             if (option == DialogResult.OK)
             {
-                System.Diagnostics.Process.Start("https://github.com/AlperAkca79");
+                System.Diagnostics.Process.Start("https://temp-folder-cleaner.github.io/");
             }
         }
 

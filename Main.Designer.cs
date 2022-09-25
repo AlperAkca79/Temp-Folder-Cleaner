@@ -341,7 +341,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.webSiteToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("webSiteToolStripMenuItem.Image")));
             this.webSiteToolStripMenuItem.Name = "webSiteToolStripMenuItem";
-            this.webSiteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.webSiteToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.webSiteToolStripMenuItem.Text = "Web Site";
             this.webSiteToolStripMenuItem.Click += new System.EventHandler(this.webSiteToolStripMenuItem_Click);
             // 
@@ -349,7 +349,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.gitHubToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("gitHubToolStripMenuItem.Image")));
             this.gitHubToolStripMenuItem.Name = "gitHubToolStripMenuItem";
-            this.gitHubToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gitHubToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.gitHubToolStripMenuItem.Text = "GitHub";
             this.gitHubToolStripMenuItem.Click += new System.EventHandler(this.gitHubToolStripMenuItem_Click);
             // 
@@ -357,21 +357,21 @@ namespace Temp_Folder_Cleaner
             // 
             this.sourceCodeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("sourceCodeToolStripMenuItem.Image")));
             this.sourceCodeToolStripMenuItem.Name = "sourceCodeToolStripMenuItem";
-            this.sourceCodeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sourceCodeToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.sourceCodeToolStripMenuItem.Text = "Source Code";
             this.sourceCodeToolStripMenuItem.Click += new System.EventHandler(this.sourceCodeToolStripMenuItem_Click);
             // 
             // reportIssueToolStripMenuItem
             // 
             this.reportIssueToolStripMenuItem.Name = "reportIssueToolStripMenuItem";
-            this.reportIssueToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.reportIssueToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.reportIssueToolStripMenuItem.Text = "Report Issue";
             this.reportIssueToolStripMenuItem.Click += new System.EventHandler(this.reportIssueToolStripMenuItem_Click);
             // 
             // submitARequestToolStripMenuItem
             // 
             this.submitARequestToolStripMenuItem.Name = "submitARequestToolStripMenuItem";
-            this.submitARequestToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.submitARequestToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.submitARequestToolStripMenuItem.Text = "Submit a Request";
             // 
             // button1
@@ -404,7 +404,7 @@ namespace Temp_Folder_Cleaner
             this.linkLabel1.Size = new System.Drawing.Size(37, 13);
             this.linkLabel1.TabIndex = 3;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "v1.0.1";
+            this.linkLabel1.Text = "v1.0.2";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
