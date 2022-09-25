@@ -425,3 +425,4 @@ namespace Temp_Folder_Cleaner
             }
         }
     }
+}
