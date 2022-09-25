@@ -82,7 +82,7 @@ namespace Temp_Folder_Cleaner
             DialogResult option = MessageBox.Show("The Version History Will Open in the Web Browser. Do you want to open it?", "Information", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (option == DialogResult.OK)
             {
-                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/CleanTempFolder/releases");
+                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/Temp-Folder-Cleaner/releases");
             }
         }
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -90,7 +90,7 @@ namespace Temp_Folder_Cleaner
             DialogResult option = MessageBox.Show("The Source Code Will Open in the Web Browser. Do you want to open it?", "Information", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (option == DialogResult.OK)
             {
-                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/CleanTempFolder");
+                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/Temp-Folder-Cleaner");
             }
         }
 
@@ -361,7 +361,7 @@ namespace Temp_Folder_Cleaner
         // About - Program Version
         private void versionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Program Version: 1.0.0", "Version Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Program Version: 1.0.1", "Version Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         // About - .NET Version
@@ -411,7 +411,7 @@ namespace Temp_Folder_Cleaner
             DialogResult option = MessageBox.Show("The Source Code Will Open in the Web Browser. Do you want to open it?", "Information", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (option == DialogResult.OK)
             {
-                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/CleanTempFolder");
+                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/Temp-Folder-Cleaner");
             }
         }
 
@@ -421,8 +421,7 @@ namespace Temp_Folder_Cleaner
             DialogResult option = MessageBox.Show("The Report Issue Page Will Open in the Web Browser. Do you want to open it?", "Information", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (option == DialogResult.OK)
             {
-                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/CleanTempFolder/issues");
+                System.Diagnostics.Process.Start("https://github.com/AlperAkca79/Temp-Folder-Cleaner/issues");
             }
         }
     }
-}

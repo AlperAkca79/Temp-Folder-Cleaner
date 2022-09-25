@@ -145,7 +145,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.exitToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("exitToolStripMenuItem.Image")));
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -153,7 +153,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.cancelToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cancelToolStripMenuItem.Image")));
             this.cancelToolStripMenuItem.Name = "cancelToolStripMenuItem";
-            this.cancelToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cancelToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
             this.cancelToolStripMenuItem.Text = "Cancel";
             // 
             // settingsToolStripMenuItem
@@ -216,7 +216,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.englishToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("englishToolStripMenuItem.Image")));
             this.englishToolStripMenuItem.Name = "englishToolStripMenuItem";
-            this.englishToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.englishToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.englishToolStripMenuItem.Text = "English";
             this.englishToolStripMenuItem.Click += new System.EventHandler(this.englishToolStripMenuItem_Click);
             // 
@@ -224,7 +224,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.turkishToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("turkishToolStripMenuItem.Image")));
             this.turkishToolStripMenuItem.Name = "turkishToolStripMenuItem";
-            this.turkishToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.turkishToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.turkishToolStripMenuItem.Text = "Turkish";
             this.turkishToolStripMenuItem.Click += new System.EventHandler(this.turkishToolStripMenuItem_Click);
             // 
@@ -232,7 +232,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.frenchToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("frenchToolStripMenuItem.Image")));
             this.frenchToolStripMenuItem.Name = "frenchToolStripMenuItem";
-            this.frenchToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.frenchToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.frenchToolStripMenuItem.Text = "French";
             this.frenchToolStripMenuItem.Click += new System.EventHandler(this.frenchToolStripMenuItem_Click);
             // 
@@ -240,7 +240,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.germanToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("germanToolStripMenuItem.Image")));
             this.germanToolStripMenuItem.Name = "germanToolStripMenuItem";
-            this.germanToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.germanToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.germanToolStripMenuItem.Text = "German";
             this.germanToolStripMenuItem.Click += new System.EventHandler(this.germanToolStripMenuItem_Click);
             // 
@@ -248,7 +248,7 @@ namespace Temp_Folder_Cleaner
             // 
             this.russianToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("russianToolStripMenuItem.Image")));
             this.russianToolStripMenuItem.Name = "russianToolStripMenuItem";
-            this.russianToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.russianToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.russianToolStripMenuItem.Text = "Russian";
             this.russianToolStripMenuItem.Click += new System.EventHandler(this.russianToolStripMenuItem_Click);
             // 
@@ -259,7 +259,7 @@ namespace Temp_Folder_Cleaner
             this.chineseSimplifiedToolStripMenuItem});
             this.chineseToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("chineseToolStripMenuItem.Image")));
             this.chineseToolStripMenuItem.Name = "chineseToolStripMenuItem";
-            this.chineseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.chineseToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.chineseToolStripMenuItem.Text = "Chinese";
             // 
             // chineseTraditionalToolStripMenuItem
@@ -404,7 +404,7 @@ namespace Temp_Folder_Cleaner
             this.linkLabel1.Size = new System.Drawing.Size(37, 13);
             this.linkLabel1.TabIndex = 3;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "v1.0.0";
+            this.linkLabel1.Text = "v1.0.1";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
